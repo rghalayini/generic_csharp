@@ -1,0 +1,6 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericConstraints\obj\Debug\GenericConstraints.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericConstraints\bin\Debug\GenericConstraints.exe.config
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericConstraints\bin\Debug\GenericConstraints.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericConstraints\bin\Debug\GenericConstraints.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericConstraints\obj\Debug\GenericConstraints.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericConstraints\obj\Debug\GenericConstraints.pdb

@@ -1,0 +1,7 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\Lab_Generics\bin\Debug\Lab_Generics.exe.config
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\Lab_Generics\bin\Debug\Lab_Generics.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\Lab_Generics\bin\Debug\Lab_Generics.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\Lab_Generics\obj\Debug\Generics.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\Lab_Generics\obj\Debug\Generics.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\Lab_Generics\obj\Debug\Lab_Generics.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\Lab_Generics\obj\Debug\Lab_Generics.pdb

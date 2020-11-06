@@ -1,0 +1,7 @@
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericArrayCreator\bin\Debug\GenericArrayCreator.exe.config
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericArrayCreator\bin\Debug\GenericArrayCreator.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericArrayCreator\bin\Debug\GenericArrayCreator.pdb
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericArrayCreator\obj\Debug\GenericArrayCreator.csprojAssemblyReference.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericArrayCreator\obj\Debug\GenericArrayCreator.csproj.CoreCompileInputs.cache
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericArrayCreator\obj\Debug\GenericArrayCreator.exe
+C:\Users\remyg\Programming\C#\Lexicon_exercises\Lab_Generics\GenericArrayCreator\obj\Debug\GenericArrayCreator.pdb
